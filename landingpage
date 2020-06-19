@@ -1,0 +1,21 @@
+<HTML> 
+    
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Domain Sales">
+    
+    <title>This Domain is for Sale</title>    
+</head>
+
+<body>
+<div style = "top: 50%; left: 50%;">
+<h1 style = "text-align: center;">THIS DOMAIN IS FOR SALE</h1>
+<h2 style = "text-align: center;">Price: $500</h2>
+</div>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfaqtnncFWxSXcXJJ-D6RNktM_G78FE4_0zypEjdD1RWFaD5A/viewform?embedded=true" width="640" height="574" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+</body>
+
+</HTML>
